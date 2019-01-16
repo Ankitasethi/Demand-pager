@@ -1,0 +1,28 @@
+Hi. 
+Author: ankita sethi
+nyu id: aks651 
+
+To run the program , compile in terminal using:
+
+javac Pager.java page.java process.java
+ 
+ OR
+
+ javac *.java 
+
+
+ After compiling run Pager (clss with main method) using:
+
+ java Pager args[0] args[1] args[2] args[3] args[4] args[5] args[6]
+
+ where :
+
+ args[0]= machine size (int)
+ args[1]= page size (int)
+ args[2]= size of each process (int)
+ args[3]= job mix (int)
+ args[4]= number of references for each process (int)
+ args[5]= replacement algorithm (String, lower case)
+ args[6]= debug level (int, only 0 will work)
+
+thanks!
